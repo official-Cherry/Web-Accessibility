@@ -10,10 +10,9 @@ Accessible content is available, and its functionality can be opreated, by liter
     - Speech recognition software
     - Screen magnifiers
     - Alternative input devices 
-<br>
+
 - The Accessibility Tree 
 
-<br>
 - DOM(Document Object Model) vs. Accessibility Tree
     1. DOM 
     - **정의** : HTML, XML 문서의 프로그래밍 인터페이스. 웹페이지의 구조를 트리형태로 표현하며, 각 노드는 문서 내의 객체 (예:태그,속성,텍스트 등)를 나타낸다. 이 트리 구조를 통해 프로그래밍 언어(주로 JavaScript)가 문서의 구조, 스타일, 내용을 동적으로 조작할 수 있다.
@@ -29,7 +28,6 @@ Accessible content is available, and its functionality can be opreated, by liter
     - DOM은 웹페이지의 전체 구조와 내용을 나타내는 반면, Accessibility Tree 는 DOM의 접근성 관련 부분만을 추출하여 보조 기술이 사용하기 쉬운 형태로 제공한다.
     - 웹 개발 시, HTML 요소에 'role','aria-*' 속성 등을 적절히 사용하면 Accessibility Tree 에서 요소의 접근성 정보가 향상된다. 이는 보조기술 사용자가 웹 페이지를 더 잘 이해하고 사용할 수 있게 도와준다.
     - Accessibility Tree 는 사용자에게 직접적으로 보이지 않지만, 웹 접근성을 개선하는 데 중요한 역할을 한다. 따라서 웹 개발 과정에서 접근성을 고려한 마크업을 ARIA(Accessible Rich Internet Applications) 사용은 매우 중요하다.
-<br>
 - Accessibility testing
     - Using AT
     - Contrast Checkers

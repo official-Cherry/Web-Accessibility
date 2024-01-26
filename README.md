@@ -38,3 +38,19 @@ Accessible content is available, and its functionality can be opreated, by liter
         - Accessibility Inspector
         - aXe
     - AI assistants
+
+## 2. Accessibility Guidelines
+### Web Content Accessibility Guidelines (WCAG) 2.0
+
+- WCAG levels
+    - A
+    - AA (4.5:1 contrast , 3:1 for large text(>= 24px))
+    - AAA (7:1 contrast, 4.5:1 for large text(>= 24px))
+
+- Color contrast
+    - contrast ratio checker
+        - https://webaim.org/resources/contrastchecker/
+    - chrome browser
+        - hover on components
+        - `PC` : `ctrl+shift+c`
+        - `Mac` : `cmd+shift+c`

@@ -12,8 +12,8 @@ Accessible content is available, and its functionality can be opreated, by liter
     - Alternative input devices 
 <br>
 - The Accessibility Tree 
-    ![Accessibility Tree example1](https://github.com/official-Cherry/Web-Accessibility/assets/102645206/efc3097b-f346-4267-97b8-54763aeaceaf)
-    ![Accessibility Tree example2](https://github.com/official-Cherry/Web-Accessibility/assets/102645206/347e4f10-f4bc-4e14-aa78-511e2685b206)
+    ![image](https://github.com/official-Cherry/Web-Accessibility/assets/102645206/44ec566b-68a7-426a-a1e0-eff9fe162554)
+    ![image](https://github.com/official-Cherry/Web-Accessibility/assets/102645206/347e4f10-f4bc-4e14-aa78-511e2685b206)
 <br>
 - DOM(Document Object Model) vs. Accessibility Tree
     1. DOM 
